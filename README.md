@@ -16,13 +16,6 @@ These are my notes for a [course](https://www.udemy.com/course/data-warehouse-th
     - [Dimensions](./theories/Dimensions.md)
     - [Slowly Changing Dimensions](./theories/Slowly_Changing_Dimensions.md)
 
-- Hands-on case study:
-    - ETL Process
-    - ETL Tool
-    - Create a DW
-
 - Other topics:
-    - ETL vs ELT
-    - Connect DW to Power BI
-    - Optimizing DW
-    - DW in the modern world
+    - [ETL Process](./theories/ETL_Process.md)
+    - [Data Warehouse in practice](./theories/Data_Warehouse.md)
